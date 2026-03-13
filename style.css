@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(62, 149, 62);
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    color: white;
+    background-color: rgb(2, 79, 2);
+}
+header{
+    background-color: rgb(2, 79, 2);
+}
+a{
+    color: rgb(120, 227, 227);
+}
+header{
+    color: white;
+}
